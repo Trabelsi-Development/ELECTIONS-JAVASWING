@@ -21,3 +21,6 @@ possible: the number of votes per party and the percentage of votes obtained by 
 (the one that obtained the maximum number of votes), the parties that did not obtain any votes, etc.
 * Statistics: The application can offer some statistics such as the voting rate  (percentage of registered voters who participated in the vote) overall, by region and by age group. It is also possible to refine the results by age group of voters, etc.
 
+For more details, see these two PDFs; the first one explain what must the application offer as services and the second one shows the final result:</br>[Projet POO 2019.pdf](https://github.com/Trabelsi-Development/ELECTIONS-JAVASWING/files/9002851/Projet.POO.2019.pdf)</br>[Rapport2019.pdf](https://github.com/Trabelsi-Development/ELECTIONS-JAVASWING/files/9002877/Rapport2019.pdf)
+
+P.S.: This application is developed using JAVA 8[Uploading Projet POO 2019.pdf…]()
